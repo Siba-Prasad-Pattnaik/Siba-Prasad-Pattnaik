@@ -3,11 +3,10 @@
 <h1 align="center">Hi 👋, I'm Siba Prasad Pattnaik</h1>
 <h3 align="center">A passionate frontend developer from Bhubaneswar, Odisha, India.</h3>
 
-<img align="right" alt="Coding" width="230" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+<img align="right" alt="Coding" width="330" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siba-prasad-pattnaik&label=Profile%20views&color=0e75b6&style=flat" alt="siba-prasad-pattnaik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siba-prasad-pattnaik" alt="siba-prasad-pattnaik" /></a> </p>
 
 - 🌱 I’m currently learning **React JS**
 
